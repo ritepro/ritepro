@@ -8,7 +8,7 @@
 
 ## Zenith Offical
 ---
-We provide tools for penetration testing. Our best project yet is **Zenith basic**, which you can check out here : [Zenith Basic](https://github.com/ritepro/Zenith-Basic-RAT)
+We provide tools for you and create new projects for you. My best project yet is **Zenith basic**, which you can check out here : [Zenith Basic](https://github.com/ritepro/Zenith-Basic-RAT)
 
 Our Telegram server : https://t.me/zenithOffical (for updates aswell but beter to join telegram anyway)
 
