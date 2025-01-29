@@ -1,21 +1,24 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+# 💫 About Me:
+📚 learning new things everyday 
+<br>📖 Currently Learning Python. Hobbies: coding, learning new things, and sleeping 😁
 
----
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ritepro&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ritepro&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ritepro&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## Zenith Offical
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ritepro&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ritepro&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 ---
-We provide tools for you and create new projects for you. My best project yet is **Zenith basic**, which you can check out here : [Zenith Basic](https://github.com/ritepro/Zenith-Basic-RAT)
+[![](https://visitcount.itsvg.in/api?id=ritepro&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Our Telegram server : https://t.me/zenithOffical (for updates aswell but beter to join telegram anyway)
-
-Our Discord server : https://discord.gg/jdwhDT68zb (for updates and announcements)
-
-Follow this account to get updates of new tools.
-
-### Donations : **0xFCba0a54b1af481a20450F5DbB0CDd57c5D75e36**
-
----
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
